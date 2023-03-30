@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I'm an 3rd year IT Student @Inholland Haarlem<br>🔭 I’m currently working on [![Haarlem Festival]](https://github.com/sasabeghiu/haarlem-festival)<br>👯 I’m looking to collaborate on different IT projects<br>🌱 I’m currently learning Web Development
+⚡ I'm an 3rd year IT Student @Inholland Haarlem<br>🔭 I’m currently working on [Haarlem Festival](https://github.com/sasabeghiu/haarlem-festival)<br>👯 I’m looking to collaborate on different IT projects<br>🌱 I’m currently learning Web Development
 
 
 ## 🌐 Socials:
