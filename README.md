@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I'm an 3rd year IT Student @Inholland Haarlem<br>🔭 I’m currently working on [Haarlem Festival](https://github.com/sasabeghiu/haarlem-festival)<br>🔭 Finished Projects [UNIT240](https://646415.000webhostapp.com/) | [Haarlem Festival](https://hf6.000webhostapp.com/page/festival)<br>👯 I’m looking to collaborate on different IT projects<br>🌱 I’m currently learning REST API's 
+⚡ I'm an 3rd year IT Student @Inholland Haarlem<br>🔭 I’m currently working on [Bank API](https://github.com/Paliy0/api-design)<br>🔭 Finished Projects [UNIT240](https://646415.000webhostapp.com/) | [Haarlem Festival](https://hf6.000webhostapp.com/page/festival)<br>👯 I’m looking to collaborate on different IT projects<br>🌱 I’m currently learning REST API's 
 
 
 ## 🌐 Socials:
