@@ -1,7 +1,7 @@
 <h1 align="center">💫 About Me: </h1>
 
 ⚡ I'm an 3rd year IT Student @Inholland Haarlem looking for an Internship<br>
-🔭 Finished Projects ![UNIT240](https://646415.000webhostapp.com/) | ![Haarlem Festival](https://hf6.000webhostapp.com/page/festival) <br>
+🔭 Finished Projects [UNIT240](https://646415.000webhostapp.com/),  [Haarlem Festival](https://hf6.000webhostapp.com/page/festival) <br>
 👯 I’m looking to collaborate on different IT projects <br>
 🌱 I’m currently learning REST API's 
 🌱 I’m currently working on [API Design](https://github.com/Paliy0/api-design) and [Bank API](https://github.com/Paliy0/Bank-API) <br>
@@ -14,7 +14,7 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
 
 ### Technologies and Frameworks
