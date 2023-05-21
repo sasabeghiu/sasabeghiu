@@ -47,9 +47,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasabeghiu&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sasabeghiu&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasabeghiu&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasabeghiu&theme=dark&hide_border=false" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=sasabeghiu&theme=dark&hide_border=false&include_all_commits=false&count_private=true" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasabeghiu&theme=dark&hide_border=false&include_all_commits=false&count_private=true" /> <br>
 </p>
 
 ---
