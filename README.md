@@ -1,13 +1,12 @@
 <h1 align="center">💫 About Me: </h1>
-<p align="center">
-⚡ I'm an 3rd year IT Student @Inholland Haarlem
-  <br>🌱 I’m currently working on ![API Design](https://github.com/Paliy0/api-design) and ![Bank API](https://github.com/Paliy0/Bank-API)
-  <br>🔭 Finished Projects ![UNIT240](https://646415.000webhostapp.com/) | ![Haarlem Festival](https://hf6.000webhostapp.com/page/festival)
-  <br>👯 I’m looking to collaborate on different IT projects
-  <br>🌱 I’m currently learning REST API's 
-</p>
 
-### 🌐 Socials:
+⚡ I'm an 3rd year IT Student @Inholland Haarlem looking for an Internship<br>
+🔭 Finished Projects ![UNIT240](https://646415.000webhostapp.com/) | ![Haarlem Festival](https://hf6.000webhostapp.com/page/festival) <br>
+👯 I’m looking to collaborate on different IT projects <br>
+🌱 I’m currently learning REST API's 
+🌱 I’m currently working on [API Design](https://github.com/Paliy0/api-design) and [Bank API](https://github.com/Paliy0/Bank-API) <br>
+
+### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandru-beghiu) 
 
 ### Programming Languages
