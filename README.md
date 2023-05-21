@@ -1,4 +1,4 @@
-<h1 align="center">💫 About Me: </h1>
+<h1 align="center">💫 About Me </h1>
 
 ⚡ I'm an 3rd year IT Student @Inholland Haarlem looking for an Internship<br>
 🔭 Finished Projects [UNIT240](https://646415.000webhostapp.com/) | [Haarlem Festival](https://hf6.000webhostapp.com/page/festival) <br>
@@ -45,7 +45,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<h1 align="center">📊 GitHub Stats </h1>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasabeghiu&theme=blue-green&hide_border=false" /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=sasabeghiu&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true" /> <br>
