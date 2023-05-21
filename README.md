@@ -46,11 +46,13 @@
 <br><br>
 
 <h1 align="center">📊 GitHub Stats </h1>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasabeghiu&theme=blue-green&hide_border=false" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=sasabeghiu&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasabeghiu&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true" /> <br>
-</p>
+<details>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasabeghiu&theme=blue-green&hide_border=false" /> <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=sasabeghiu&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true" /> <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasabeghiu&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true" /> <br>
+  </p>
+</details>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=sasabeghiu&icon=5&color=11" />
