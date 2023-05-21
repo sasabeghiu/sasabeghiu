@@ -43,7 +43,7 @@
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=5849BE) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
----
+<br><br>
 
 <h1 align="center">📊 GitHub Stats </h1>
 <p align="center">
@@ -51,8 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sasabeghiu&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasabeghiu&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true" /> <br>
 </p>
-
----
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=sasabeghiu&icon=5&color=11" />
