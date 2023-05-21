@@ -43,11 +43,17 @@
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=5849BE) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
+---
+
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=sasabeghiu&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sasabeghiu&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sasabeghiu&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sasabeghiu&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasabeghiu&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasabeghiu&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sasabeghiu&icon=5&color=11)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=sasabeghiu&icon=5&color=11" />
+</p>
