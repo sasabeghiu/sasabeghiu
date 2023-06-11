@@ -4,7 +4,7 @@
 🔭 Finished Projects [UNIT240](https://646415.000webhostapp.com/) | [Haarlem Festival](https://hf6.000webhostapp.com/page/festival) <br>
 👯 I’m looking to collaborate on different IT projects <br>
 📝 I’m currently learning REST API's <br>
-🌱 I’m currently working on [API Design](https://github.com/Paliy0/api-design) and [Bank API](https://github.com/Paliy0/Bank-API) <br>
+🌱 I’m currently working on Bank API: [Front-End](https://github.com/jojunicorn/bank-application-frontend) and [Back-end](https://github.com/Paliy0/Bank-API) <br>
 
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandru-beghiu) 
@@ -54,7 +54,7 @@
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasabeghiu&theme=blue-green&hide_border=false" /> <br>
     <img src="https://github-readme-stats.vercel.app/api?username=sasabeghiu&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true" /> <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasabeghiu&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true" /> <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasabeghiu&size_weight=0.5&count_weight=0.5&langs_count=8&layout=donut-vertical&theme=blue-green&hide_border=false" /> <br>
   </p>
 </details>
 
