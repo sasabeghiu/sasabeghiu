@@ -1,7 +1,7 @@
 <h1 align="center">💫 About Me </h1>
 
 ⚡ I'm an 3rd year IT Student @Inholland Haarlem looking for an Internship<br>
-🔭 Finished Projects [UNIT240](https://646415.000webhostapp.com/) | [Haarlem Festival](https://hf6.000webhostapp.com/page/festival) <br>
+🔭 Finished Projects [UNIT240](https://646415.000webhostapp.com/) | [Haarlem Festival](https://hf6.000webhostapp.com/page/festival) | [Bank API](https://bank-api-inholland.netlify.app/) <br>
 👯 I’m looking to collaborate on different IT projects <br>
 📝 I’m currently learning REST API's <br>
 🌱 I’m currently working on Bank API: [Front-End](https://github.com/jojunicorn/bank-application-frontend) and [Back-end](https://github.com/Paliy0/Bank-API) <br>
