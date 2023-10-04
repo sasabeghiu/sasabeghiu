@@ -3,8 +3,7 @@
 ⚡ I'm an 3rd year IT Student @Inholland Haarlem looking for an Internship<br>
 🔭 Finished Projects [UNIT240](https://646415.000webhostapp.com/) | [Haarlem Festival](https://hf6.000webhostapp.com/page/festival) | [Bank API](https://bank-api-inholland.netlify.app/) <br>
 👯 I’m looking to collaborate on different IT projects <br>
-📝 I’m currently learning REST API's <br>
-🌱 I’m currently working on Bank API: [Front-End](https://github.com/jojunicorn/bank-application-frontend) and [Back-end](https://github.com/Paliy0/Bank-API) <br>
+📝 I’m currently learning REST API's, Laravel and Vue.js <br>
 
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandru-beghiu) 
@@ -23,6 +22,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
