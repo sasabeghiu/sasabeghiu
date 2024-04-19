@@ -3,7 +3,7 @@
 ⚡ I'm an 3rd year IT Student @Inholland Haarlem currently doing an Internship<br>
 🔭 Finished Projects [UNIT240-PHP](https://646415.000webhostapp.com/) | [Haarlem Festival-PHP](https://hf6.000webhostapp.com/page/festival) | [Bank API-Java & VueJS](https://bank-api-inholland.netlify.app/) | [BlogApp-Laravel](https://blogapplication-laravel.000webhostapp.com/)<br>
 👯 I’m looking to collaborate on different IT projects <br>
-📝 I’m currently learning working on a full stack project in PHP and VueJS <br>
+📝 I’m currently working on a full stack project in PHP and VueJS <br>
 
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandru-beghiu) 
