@@ -14,6 +14,7 @@
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
 
 ### 💻 Technologies and Frameworks
