@@ -1,9 +1,9 @@
 <h1 align="center">💫 About Me </h1>
 
-⚡ I'm an 3rd year IT Student @Inholland Haarlem currently doing an Internship<br>
+⚡ I'm an 4th year IT Student @Inholland Haarlem currently doing Cloud Computing Minor<br>
 🔭 Finished Projects [UNIT240-PHP](https://646415.000webhostapp.com/) | [Haarlem Festival-PHP](https://hf6.000webhostapp.com/page/festival) | [Bank API-Java & VueJS](https://bank-api-inholland.netlify.app/) | [BlogApp-Laravel](https://blogapplication-laravel.000webhostapp.com/)<br>
 👯 I’m looking to collaborate on different IT projects <br>
-📝 I’m currently working on a full stack project in PHP and VueJS <br>
+📝 I’m currently working on a cloud project <br>
 
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandru-beghiu) 
@@ -15,6 +15,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
 
 ### 💻 Technologies and Frameworks
