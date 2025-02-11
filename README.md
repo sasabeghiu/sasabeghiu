@@ -1,9 +1,8 @@
 <h1 align="center">💫 About Me </h1>
 
-⚡ I'm an 4th year IT Student @Inholland Haarlem currently doing Cloud Computing Minor<br>
-🔭 Finished Projects [UNIT240-PHP](https://646415.000webhostapp.com/) | [Haarlem Festival-PHP](https://hf6.000webhostapp.com/page/festival) | [Bank API-Java & VueJS](https://bank-api-inholland.netlify.app/) | [BlogApp-Laravel](https://blogapplication-laravel.000webhostapp.com/)<br>
+⚡ I'm an 4th year IT Student @Inholland Haarlem currently doing CyberSecurity Minor<br>
 👯 I’m looking to collaborate on different IT projects <br>
-📝 I’m currently working on a cloud project <br>
+📝 I’m currently working on a legal/ethical framework complience for a robot in healthcare project <br>
 
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandru-beghiu) 
